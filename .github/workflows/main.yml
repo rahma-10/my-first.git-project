@@ -12,7 +12,7 @@ jobs:
 
     steps:
       - name: 'Testing Github action'
-       run: pwd
+        run: pwd
 
       - name: 'Testing Printing'
-       run: echo Rahma
+        run: echo Rahma
